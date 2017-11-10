@@ -3,6 +3,7 @@ This repository contains homework assigned by class “Java Promgramming” of I
 
 ##	Homework<br>
 *	HW1
+
 Let x be any real number. Write a program which calculate the square root of x by using Bisection method. You may use a while loop for this problem. The function Math.pow and Math.sqrt are not allowed.
 
 *	HW2
